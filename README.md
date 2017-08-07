@@ -1,5 +1,5 @@
 # Drug Repositioning for CNS Cancers
 
-## Drugs Used in CNS Disease
+## Drugs Used for CNS Disease
 
 ## Drug Targets Resources
